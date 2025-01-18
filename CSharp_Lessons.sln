@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp_06_Arrays", "CSharp_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp_07_ArrayClass", "CSharp_07_ArrayClass\CSharp_07_ArrayClass.csproj", "{FB314BF9-CA5E-4DDC-9EBD-448CAA5039F1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp_08_ForEach", "CSharp_08_ForEach\CSharp_08_ForEach.csproj", "{400B0362-D94B-446C-8B96-161DF9FC4A18}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{FB314BF9-CA5E-4DDC-9EBD-448CAA5039F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FB314BF9-CA5E-4DDC-9EBD-448CAA5039F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FB314BF9-CA5E-4DDC-9EBD-448CAA5039F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{400B0362-D94B-446C-8B96-161DF9FC4A18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{400B0362-D94B-446C-8B96-161DF9FC4A18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{400B0362-D94B-446C-8B96-161DF9FC4A18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{400B0362-D94B-446C-8B96-161DF9FC4A18}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
