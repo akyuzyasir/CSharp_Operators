@@ -3,17 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.12.35707.178
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp_Operators", "CSharp_Operators\CSharp_Operators.csproj", "{ED89A4AD-1C9C-4707-AFAA-89651630901C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp_01_Operators", "CSharp_Operators\CSharp_01_Operators.csproj", "{ED89A4AD-1C9C-4707-AFAA-89651630901C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp_SwitchCase", "CSharp_SwitchCase\CSharp_SwitchCase.csproj", "{4685DC3E-340E-497B-8333-24431C0AA200}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp_03_SwitchCase", "CSharp_SwitchCase\CSharp_03_SwitchCase.csproj", "{4685DC3E-340E-497B-8333-24431C0AA200}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp_Conditionals", "CSharp_Conditionals\CSharp_Conditionals.csproj", "{0BD10F01-863C-453E-822A-9F2E07E78E6E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp_02_Conditionals", "CSharp_Conditionals\CSharp_02_Conditionals.csproj", "{0BD10F01-863C-453E-822A-9F2E07E78E6E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp_Loops", "CSharp_Loops\CSharp_Loops.csproj", "{08D87DE2-E1B0-48AE-8770-4DAFA9566FE4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp_04_Loops", "CSharp_Loops\CSharp_04_Loops.csproj", "{08D87DE2-E1B0-48AE-8770-4DAFA9566FE4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp_ControlStatements", "CSharp_ControlStatements\CSharp_ControlStatements.csproj", "{0BA365DC-741C-4D71-BE74-3EEAA7C5034A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp_05_ControlStatements", "CSharp_ControlStatements\CSharp_05_ControlStatements.csproj", "{0BA365DC-741C-4D71-BE74-3EEAA7C5034A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp_Arrays", "CSharp_Arrays\CSharp_Arrays.csproj", "{7F91A4EF-EB2C-4291-9A5D-54800D87DDAC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp_06_Arrays", "CSharp_Arrays\CSharp_06_Arrays.csproj", "{7F91A4EF-EB2C-4291-9A5D-54800D87DDAC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp_07_ArrayClass", "CSharp_07_ArrayClass\CSharp_07_ArrayClass.csproj", "{FB314BF9-CA5E-4DDC-9EBD-448CAA5039F1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{7F91A4EF-EB2C-4291-9A5D-54800D87DDAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7F91A4EF-EB2C-4291-9A5D-54800D87DDAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7F91A4EF-EB2C-4291-9A5D-54800D87DDAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB314BF9-CA5E-4DDC-9EBD-448CAA5039F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB314BF9-CA5E-4DDC-9EBD-448CAA5039F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB314BF9-CA5E-4DDC-9EBD-448CAA5039F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB314BF9-CA5E-4DDC-9EBD-448CAA5039F1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
