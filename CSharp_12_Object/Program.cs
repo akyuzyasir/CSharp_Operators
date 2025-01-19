@@ -9,7 +9,7 @@ internal class Program
 
         Example x = null; // Declaring a reference to an object of class Example but not creating an object. x is stored in stack memory.
         x = new Example(); // Creating an object of class Example and assigning it to x. x is a reference to the object. 
-
+        new Example(); // Creating an object of class Example but not assigning it to any reference. This object will be destroyed by garbage collector as soon as the control goes out of scope.
         Example a = new Example();
         Example b = a; // b is a reference to the object that a is referencing. Both a and b are pointing to the same object. If we change the object using a, b will also reflect the changes.
 
