@@ -29,6 +29,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp_12_Object", "CSharp_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp_13_AccessMethodsThroughObjects", "CSharp_13_AccessMethodsThroughObjects\CSharp_13_AccessMethodsThroughObjects.csproj", "{05CA8B4D-FD78-44EB-AD7A-76E1F68140F2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp_14_MethodOverload", "CSharp_14_MethodOverload\CSharp_14_MethodOverload.csproj", "{0D8732C3-0D88-465A-9654-A6DE1A85FEAC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp_15_Classes2", "CSharp_15_Classes2\CSharp_15_Classes2.csproj", "{9EE5A699-167C-4BD7-8049-60872BF30BFB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +91,14 @@ Global
 		{05CA8B4D-FD78-44EB-AD7A-76E1F68140F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{05CA8B4D-FD78-44EB-AD7A-76E1F68140F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{05CA8B4D-FD78-44EB-AD7A-76E1F68140F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D8732C3-0D88-465A-9654-A6DE1A85FEAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D8732C3-0D88-465A-9654-A6DE1A85FEAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D8732C3-0D88-465A-9654-A6DE1A85FEAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D8732C3-0D88-465A-9654-A6DE1A85FEAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EE5A699-167C-4BD7-8049-60872BF30BFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EE5A699-167C-4BD7-8049-60872BF30BFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EE5A699-167C-4BD7-8049-60872BF30BFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EE5A699-167C-4BD7-8049-60872BF30BFB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
