@@ -47,4 +47,5 @@ class Student
     // ctrl + r + e to generate properties
 
     bool isPassed;
+    public string Surname { get; set; } = "Doe"; // Auto property initializer
 }
