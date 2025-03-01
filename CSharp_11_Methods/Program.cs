@@ -21,7 +21,7 @@ internal class Program
     #region Methods without parameters with return value
     public void Method2(bool x, decimal m)
     {
-        Console.WriteLine(x + " , " m);
+        Console.WriteLine(x + " , " +m);
     }
     #endregion
     #region Methods with parameters without return value
